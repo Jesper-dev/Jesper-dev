@@ -1,7 +1,7 @@
 # Nice to meet you! 👋
 
 ## About me
-My name is Jesper Pettersson and i'm currently studying front-end development at KYH in Stockholm. My goal is to become a fullstack developer or an MERN stack developer.
+My name is Jesper Pettersson and i'm currently studying front-end development at KYH in Stockholm. My goal is to become a fullstack developer.
 
 ### Languages and tools:
 - HTML
@@ -14,6 +14,7 @@ My name is Jesper Pettersson and i'm currently studying front-end development at
 - Firebase
 
 ### Scope right now:
+- Making a fictional currency investment website 🚀
 - Doing a job for a swedish company ☺️
 - Learning Nuxt and Python 🐍
 - Studying 📚
