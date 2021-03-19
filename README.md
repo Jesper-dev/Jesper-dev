@@ -1,16 +1,30 @@
-### Hi there 👋
+# Nice to meet you! 👋
 
-<!--
-**Jesper-dev/Jesper-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+My name is Jesper Pettersson and i'm currently studying front-end development at KYH in Stockholm. My goal is to become a fullstack developer or an MERN stack developer.
 
-Here are some ideas to get you started:
+### Languages and tools:
+- HTML
+- JS
+- CSS
+- REACT
+- Nuxt/Vue
+- Strapi
+- Figma
+- Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Scope right now:
+- Doing a job for a swedish company
+- Learning Nuxt and Python
+- Studying
+
+### My hobbies:
+- Programming (obviously)
+- Computers
+- Gaming
+- Just chill
+
+### How to reach me
+- [portfolio](http://jesper-portfolio.surge.sh/)
+- [mail](mailto:jesper.pettersson00@hotmail.com)
+
