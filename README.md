@@ -14,17 +14,17 @@ My name is Jesper Pettersson and i'm currently studying front-end development at
 - Firebase
 
 ### Scope right now:
-- Doing a job for a swedish company
-- Learning Nuxt and Python
-- Studying
+- Doing a job for a swedish company ☺️
+- Learning Nuxt and Python 🐍
+- Studying 📚
 
 ### My hobbies:
-- Programming (obviously)
-- Computers
-- Gaming
-- Just chill
+- Programming (obviously) ⌨️
+- Gaming 🖥️
+- Just chill 🛏️
 
-### How to reach me
-- [portfolio](http://jesper-portfolio.surge.sh/)
-- [mail](mailto:jesper.pettersson00@hotmail.com)
+### How to reach me:
+- [portfolio](http://jesper-portfolio.surge.sh/) 😊
+- [mail](mailto:jesper.pettersson00@hotmail.com) ✉️
 
+## **Let's make something awesome together!** 😀
