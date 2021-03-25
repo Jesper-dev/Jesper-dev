@@ -16,7 +16,7 @@ My name is Jesper Pettersson and i'm currently studying front-end development at
 ### Scope right now:
 - Making a fictional currency investment website 🚀
 - Doing a job for a swedish company ☺️
-- Learning Nuxt and Python 🐍
+- Learning Nuxt and React Native 🤓
 - Studying 📚
 
 ### My hobbies:
