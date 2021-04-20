@@ -12,6 +12,7 @@ My name is Jesper Pettersson and i'm currently studying front-end development at
 - Strapi
 - Figma
 - Firebase
+- Headless
 
 ### Scope right now:
 - Making a fictional currency investment website 🚀
