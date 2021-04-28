@@ -15,8 +15,7 @@ My name is Jesper Pettersson and i'm currently studying front-end development at
 - Headless
 
 ### Scope right now:
-- Making a fictional currency investment website 🚀
-- Doing a job for a swedish company ☺️
+- Owner of a fictional currency investment website (http://lets-vest.surge.sh/) 🚀
 - Learning Nuxt and React Native 🤓
 - Studying 📚
 
