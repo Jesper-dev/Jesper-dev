@@ -9,20 +9,22 @@ My name is Jesper Pettersson and i'm currently studying front-end development at
 - CSS
 - REACT
 - Nuxt/Vue
+- Node/Express
 - Strapi
 - Figma
 - Firebase
 - Headless
+- Postman
 
 ### Scope right now:
 - Owner of a fictional currency investment website (http://lets-vest.surge.sh/) 🚀
-- Learning Nuxt and React Native 🤓
+- Learning Next JS
 - Studying 📚
 
 ### My hobbies:
 - Programming (obviously) ⌨️
 - Gaming 🖥️
-- Just chill 🛏️
+- Chillin 🛏️
 
 ### How to reach me:
 - [portfolio](http://jesper-portfolio.surge.sh/) 😊
