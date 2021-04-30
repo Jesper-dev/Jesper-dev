@@ -17,7 +17,7 @@ My name is Jesper Pettersson and i'm currently studying front-end development at
 - Postman
 
 ### Scope right now:
-- Owner of a fictional currency investment website (http://lets-vest.surge.sh/) 🚀
+- CO-Owner of a fictional currency investment website (http://lets-vest.surge.sh/) 🚀
 - Learning Next JS
 - Studying 📚
 
