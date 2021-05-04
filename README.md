@@ -28,6 +28,6 @@ My name is Jesper Pettersson and i'm currently studying front-end development at
 
 ### How to reach me:
 - [portfolio](http://jesper-portfolio.surge.sh/) 😊
-- [mail](mailto:jesper.pettersson00@hotmail.com) ✉️
+- [mail](mailto:jesper@jesperp.se) ✉️
 
 ## **Let's make something awesome together!** 😀
