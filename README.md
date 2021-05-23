@@ -19,7 +19,7 @@ My name is Jesper Pettersson and i'm currently studying front-end development at
 - CRUD
 
 ### Scope right now:
-- CO-Owner of a fictional currency investment website (http://lets-vest.surge.sh/) 🚀
+- Reworking my portfolio in next JS
 - Learning Next JS
 - Studying 📚
 
