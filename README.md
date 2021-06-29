@@ -20,8 +20,8 @@ My name is Jesper Pettersson and i'm currently studying front-end development at
 - CRUD
 
 ### Scope right now:
-- Reworking my portfolio in React and TypeScript!
-- Learning Next JS
+- Reworking my portfolio in React and TypeScript
+- Learning TypeScript
 - Studying 📚
 
 ### My hobbies:
