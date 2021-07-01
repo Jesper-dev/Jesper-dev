@@ -9,7 +9,7 @@ My name is Jesper Pettersson and i'm currently studying front-end development at
 - CSS
 - REACT
 - Nuxt/Vue
-- SCSS/SASS
+- SASS
 - Node/Express
 - Strapi
 - Figma
