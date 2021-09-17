@@ -6,6 +6,7 @@ My name is Jesper Pettersson and i'm currently studying front-end development at
 ### Languages and tools:
 - HTML
 - JS
+- TS
 - CSS
 - REACT
 - Nuxt/Vue
