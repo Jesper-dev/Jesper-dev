@@ -29,6 +29,7 @@ My name is Jesper Pettersson and i'm currently studying front-end development at
 - Programming (obviously) ⌨️
 - Gaming 🖥️
 - Chillin 🛏️
+- Padel 🎾
 
 ### How to reach me:
 - [portfolio](https://jesperp.surge.sh/) 😊
