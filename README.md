@@ -31,7 +31,7 @@ My name is Jesper Pettersson and i'm currently studying front-end development at
 - Chillin 🛏️
 
 ### How to reach me:
-- [portfolio](https://jesperp.se) 😊
-- [mail](mailto:jesper@jesperp.se) ✉️
+- [portfolio](https://jesperp.surge.sh/) 😊
+- [mail](mailto:jesper.pettersson00@hotmail.com) ✉️
 
 ## **Let's make something awesome together!** 😀
