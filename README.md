@@ -1,7 +1,7 @@
 # Nice to meet you! 👋
 
 ## About me
-My name is Jesper Pettersson and i'm currently studying front-end development at KYH in Stockholm. My goal is to become a freelancing fullstack developer.
+My name is Jesper Pettersson and i'm a front-end developer. Love TypeScript, don't need anything else.
 
 ### Languages and tools:
 - HTML
