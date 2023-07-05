@@ -21,15 +21,14 @@ My name is Jesper Pettersson and i'm a front-end developer. Love TypeScript, don
 - CRUD
 
 ### Scope right now:
-- Reworking my portfolio in React and TypeScript
-- Learning TypeScript
-- Studying 📚
+- Working and getting better at programming
+- Learning C#
 
 ### My hobbies:
 - Programming (obviously) ⌨️
 - Gaming 🖥️
 - Chillin 🛏️
-- Padel 🎾
+- Reading 📖
 
 ### How to reach me:
 - [portfolio](https://jesperp.surge.sh/) 😊
