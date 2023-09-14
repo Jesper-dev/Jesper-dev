@@ -20,16 +20,13 @@ My name is Jesper Pettersson and i'm a front-end developer. Love TypeScript, I d
 - Postman
 - RestApis
 - CRUD
-
-### Scope right now:
-- Working and getting better at programming
-- Learning C#
-
+- 
 ### My hobbies:
 - Programming (obviously) ⌨️
 - Gaming 🖥️
 - Chillin 🛏️
 - Reading 📖
+- DnD
 
 ### How to reach me:
 - [portfolio](https://jesperp.surge.sh/) 😊
