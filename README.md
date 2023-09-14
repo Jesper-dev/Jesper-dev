@@ -7,6 +7,7 @@ My name is Jesper Pettersson and i'm a front-end developer. Love TypeScript, I d
 - HTML
 - JS
 - TS ❤️
+- C#
 - CSS
 - REACT
 - Nuxt/Vue
