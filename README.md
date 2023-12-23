@@ -1,4 +1,4 @@
-# Nice to meet you! 👋
+# Hello! 👋
 
 ## About me
 My name is Jesper Pettersson and i'm a front-end developer. Love TypeScript, I don't need anything else.
