@@ -1,5 +1,4 @@
 ### Languages and tools:
-- HTML
 - JS
 - TS
 - C#
